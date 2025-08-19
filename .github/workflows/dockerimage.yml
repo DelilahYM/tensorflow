@@ -24,7 +24,7 @@ jobs:
         with:
           images: |
             delilahm/tensorflow
-          tags: type=semver,pattern={{version}}
+          tags: 2.15-cuda12.2
       - name: Build & Publish Docker Image
         uses: docker/build-push-action@v5
         with:
