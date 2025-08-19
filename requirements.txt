@@ -4,18 +4,11 @@ scipy
 matplotlib
 seaborn
 scikit-learn
-xgboost
-lightgbm
-catboost
 keras
 plotly
-bokeh
-altair
 dash
 dask
 pyspark
-nltk
-spacy
 openpyxl
 pyarrow
 geopandas
@@ -25,4 +18,3 @@ black
 pytest
 ipython
 ipykernel
-wandb
