@@ -6,15 +6,10 @@ seaborn
 scikit-learn
 keras
 plotly
-dash
-dask
-pyspark
-openpyxl
 pyarrow
 geopandas
 shapely
 ipywidgets
-black
 pytest
 ipython
 ipykernel
